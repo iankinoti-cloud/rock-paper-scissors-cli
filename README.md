@@ -49,7 +49,7 @@ chmod +x bin/cli.js
 1. Run the game
 2. Select rock, paper, or scissors
 3. The computer makes its choice
-4. See the result and choose to play again!
+4. See the result and choose to play again.
 
 ## Development
 
